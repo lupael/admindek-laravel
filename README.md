@@ -9,7 +9,7 @@
 1. install the package with composer:
 
 ```
-composer require lupael/admindek-Laravel
+composer require lupael/admindek-laravel
 
 ```
 2. Replace as views
