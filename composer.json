@@ -1,0 +1,27 @@
+{
+    "name": "johnhed/admindek",
+    "description": "Dashboards admin from laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Hed",
+            "email": "johnhed.skyred@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dashboards\\Admindek\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dashboards\\Admindek\\AdmindekServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}

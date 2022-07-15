@@ -1,0 +1,1 @@
+@extends('admindek::auth.passwords.email')
