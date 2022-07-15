@@ -1,11 +1,11 @@
 {
-    "name": "johnhed/admindek",
-    "description": "Dashboards admin from laravel",
+    "name": "lupael/admindek-laravel",
+    "description": "Admindek Dashboards For laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "John Hed",
-            "email": "johnhed.skyred@gmail.com"
+            "name": "Lupael",
+            "email": "lupael@ispbills.com"
         }
     ],
     "require": {
