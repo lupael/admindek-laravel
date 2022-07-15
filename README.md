@@ -2,7 +2,6 @@
 
 
 ### admindek
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
 
 ### Installation
@@ -10,7 +9,7 @@
 1. install the package with composer:
 
 ```
-composer require johnhed/admindek
+composer require lupael/admindek-Laravel
 
 ```
 2. Replace as views
